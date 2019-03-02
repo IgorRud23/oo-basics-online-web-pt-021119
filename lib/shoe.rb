@@ -8,6 +8,6 @@ def brand
   @brand
 end
 
-attr_accessor :color, :size
+attr_accessor :color, :size, :material
 
 end

@@ -10,8 +10,8 @@ end
 
 attr_accessor :color, :size, :material
 
-def condition=(condition)
-@condition = condition
+def condition=(cobble)
+@condition = cobble
 end
 
 end

@@ -10,3 +10,4 @@ end
 def condition
   "has been repaired"
 end
+end

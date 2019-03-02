@@ -16,5 +16,6 @@ def cobble
 do condition == "new"
 end
 end
+end
 
 end

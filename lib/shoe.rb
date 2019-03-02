@@ -1,7 +1,7 @@
 class Shoe
 
-def initialize(company_name)
-  @company_name = company_name
+def initialize(brand)
+  @brand = brand 
 end
 
 end

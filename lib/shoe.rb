@@ -8,10 +8,10 @@ def brand
   @brand
 end
 
-attr_accessor :color, :size, :material
+attr_accessor :color, :size, :material, :condition 
 
-def condition=(cobble)
-@condition = cobble
+def cobble
+  puts "Your shoe is as good as new!"
 end
-
+  
 end

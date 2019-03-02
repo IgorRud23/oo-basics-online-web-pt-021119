@@ -11,7 +11,9 @@ end
 attr_accessor :color, :size, :material, :condition
 
 def cobble
+  if condition == "old"
   puts "Your shoe is as good as new!"
+do condition == "new"
 end
 
 end

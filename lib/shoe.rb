@@ -8,4 +8,5 @@ def initialize(brand)
 end
 
 def condition
+  "has been repaired"
 end

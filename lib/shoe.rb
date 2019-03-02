@@ -15,5 +15,6 @@ def cobble
   puts "Your shoe is as good as new!"
 do condition == "new"
 end
+end
 
 end
